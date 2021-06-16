@@ -1,0 +1,9 @@
+1. Add Remote
+git init
+git remote add https://github.com/PrathameshThombre/github-demo.git
+git fetch --all
+git reset --hard origin/main
+
+2. Clone Remote
+git clone https://github.com/PrathameshThombre/github-demo.git
+cd github-demo
